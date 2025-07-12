@@ -60,7 +60,7 @@ To avoid runtime errors like `Unable to load DLL 'sni.dll'`, you must:
 
 1. Copy the following file manually after installing the package:
    ```
-   Microsoft.Data.SqlClient.SNI.dll
+   [SNI.dll](https://github.com/AmrEzzatAbdo/SQL_Insights.Gemini.Activities/blob/main/sni.dll)
    ```
 
 2. Paste it into this folder:
