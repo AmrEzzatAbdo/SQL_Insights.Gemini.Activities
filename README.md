@@ -67,7 +67,7 @@ This activity enables UiPath developers to:
 
 ## 🔧 How to Install
 
-1. Download the `.nupkg` file from the [Releases](https://github.com/SQL_Insights.Gemini.Activities/releases).
+1. Download the `.nupkg` file from the [Releases](https://github.com/AmrEzzatAbdo/SQL_Insights.Gemini.Activities/releases/).
 2. Add the local path in UiPath Studio: `Manage Packages > Settings > User-defined package sources`.
 3. Go to `Manage Packages > Available > Your Feed`, and install the activity.
 
